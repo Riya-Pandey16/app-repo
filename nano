@@ -1,0 +1,18 @@
+# DevOps CI/CD Project
+
+This project demonstrates a complete CI/CD pipeline using:
+
+- Jenkins
+- Ansible
+- Docker
+- AWS EC2
+
+## Flow
+1. Code pushed to GitHub
+2. Jenkins triggers pipeline
+3. Docker image is built
+4. Ansible deploys application
+
+## Outcome
+Fully automated CI/CD pipeline
+
